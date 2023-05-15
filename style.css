@@ -1,3 +1,13 @@
-body {
-
+body{
+  background-color:#E8EBE4;
+  color:#310D20;
+  font-size:400%;
+  text-decoration: underline
+    #171219;
+}
+img{
+  width:500px;
+  border-style: double;
+  border-color:#D2D5DD;
+  border-width: 20px;
 }
