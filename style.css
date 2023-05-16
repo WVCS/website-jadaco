@@ -11,3 +11,22 @@ img{
   border-color:#D2D5DD;
   border-width: 20px;
 }
+ul{
+  list-style-type: none;
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  padding:20px;
+  font-size:20px;
+ text-decoration:none;
+  font-family:Monaco;
+  border:double;
+  background-color:white;
+}
+li a:hover{
+  background-color: #310D20; 
+  color:white
+}
