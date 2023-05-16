@@ -24,9 +24,9 @@ li a{
  text-decoration:none;
   font-family:Monaco;
   border:double;
-  background-color:white;
+  background-color:#ffffff;
 }
 li a:hover{
   background-color: #310D20; 
-  color:white
+  color:#FFFFFF
 }
