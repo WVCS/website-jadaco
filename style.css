@@ -2,8 +2,14 @@ body{
   background-color:#E8EBE4;
   color:#310D20;
   font-size:400%;
+  h6{
+ text-decoration:none;
+  color:#ABCDEF
+}
+h1{
   text-decoration: underline
-    #171219;
+ #171219;
+}
 }
 img{
   width:500px;
